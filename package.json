@@ -1,0 +1,12 @@
+{
+  "name": "shuttle-point-tracker",
+  "description": "A script for tracking the location of my buildings shuttle",
+  "author": "Griffin Mahoney <griffin.mahoney@gmail.com>",
+  "dependencies": {
+    "mongodb": "1.4.17"
+  },
+  "devDependencies": {
+    
+  },
+  "engine": "node >= 0.10.0"
+}
